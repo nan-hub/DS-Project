@@ -5,4 +5,5 @@ This repository contains some data science projects and is only for self-learnin
 
 1. Visualize stock prices
 > python, jupyter notebook
+
 > pandas, saborn, plotly, cufflinks
