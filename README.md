@@ -15,6 +15,17 @@ This repository contains some data science projects and is only for self-learnin
 - Train the model and provide interpretaion of coefficient
 - Predict on the test set and report MAE, MSE and RMSE
 
+[Movie Recommendation with Recommender Systems](https://github.com/nan-hub/DS-Project/tree/master/Movie%20Recommendation%20with%20Recommender%20Systems)
+> python, jupyter notebook
+
+>pandas, numpy, matplotlib, seaborn
+
+- Create histogram to analysis the number of rateing
+- Filter out the movies with less than 100 ratings
+- Calculate the correlation between the chosen viewed movie and the other movies
+- Recommend the most similar movies (highest correlation)
+* This is a simplified model
+
 1. [Visualize stock prices](https://github.com/nan-hub/DS-Project/blob/master/Finance%20Project.ipynb)
 > python, jupyter notebook
 
