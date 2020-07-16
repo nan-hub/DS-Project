@@ -15,6 +15,16 @@ This repository contains some data science projects and is only for self-learnin
 - Train the model and provide interpretaion of coefficient
 - Predict on the test set and report MAE, MSE and RMSE
 
+[Visualize stock prices](https://github.com/nan-hub/DS-Project/blob/master/Finance%20Project.ipynb)
+> python, jupyter notebook
+
+> pandas, saborn, plotly, cufflinks
+
+- Use `pandas_datareader` to fetched the online bank stock data from yahoo finance for Bank of America, CitiGroup, Goldman Sachs, JPMorgan Chase, Morgan Stanley
+and Wells Fargo
+- Visualize the stock returns for each bank and analyze the outstand points
+- Create interactive plot with plotly and cufflinks
+
 [Movie Recommendation with Recommender Systems](https://github.com/nan-hub/DS-Project/tree/master/Movie%20Recommendation%20with%20Recommender%20Systems)
 > python, jupyter notebook
 
@@ -27,12 +37,4 @@ This repository contains some data science projects and is only for self-learnin
 
 *Note: This is a simplified model!*
 
-1. [Visualize stock prices](https://github.com/nan-hub/DS-Project/blob/master/Finance%20Project.ipynb)
-> python, jupyter notebook
 
-> pandas, saborn, plotly, cufflinks
-
-- Use `pandas_datareader` to fetched the online bank stock data from yahoo finance for Bank of America, CitiGroup, Goldman Sachs, JPMorgan Chase, Morgan Stanley
-and Wells Fargo
-- Visualize the stock returns for each bank and analyze the outstand points
-- Create interactive plot with plotly and cufflinks
