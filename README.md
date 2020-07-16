@@ -24,6 +24,7 @@ This repository contains some data science projects and is only for self-learnin
 - Filter out the movies with less than 100 ratings
 - Calculate the correlation between the chosen viewed movie and the other movies
 - Recommend the most similar movies (highest correlation)
+
 *Note: This is a simplified model!*
 
 1. [Visualize stock prices](https://github.com/nan-hub/DS-Project/blob/master/Finance%20Project.ipynb)
