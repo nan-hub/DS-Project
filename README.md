@@ -15,6 +15,19 @@ This repository contains some data science projects and is only for self-learnin
 - Train the model and provide interpretaion of coefficient
 - Predict on the test set and report MAE, MSE and RMSE
 
+[Classify spam and ham messages using NLP](https://github.com/nan-hub/DS-Project/tree/master/NLP%20classification)
+> python, jupyter notebook
+
+> pandas, nltk, saborn, plotly, sklearn
+
+- Import the csv files with pandas
+- Perform data preprocessing, remove the punctuation and the stopwords
+- Use CountVectorizer to convert a collection of text documents to a matrix of token counts
+- Transform integer counts to weighted TF-IDF scores
+- Choose Naive Bayes classifier to train on TF-IDF vectors
+- Write a pipleline of normalization workflow
+- Train the data, report the confusion matrix and classification report
+
 [Visualize stock prices](https://github.com/nan-hub/DS-Project/blob/master/Finance%20Project.ipynb)
 > python, jupyter notebook
 
