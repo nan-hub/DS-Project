@@ -3,7 +3,7 @@
 
 This repository contains some data science projects and is only for self-learning purpose.
 
-[Predict the loan repayment capacity using tensorflow]()
+[Predict the loan repayment capacity using tensorflow](https://github.com/nan-hub/DS-Project/tree/master/Keras_predict_loan_payback)
 > python, jupyter notebook
 
 >tensorflow, keras, pandas, numpy, matplotlib, seaborn, sklearn
