@@ -14,7 +14,8 @@ This repository contains some data science projects and is only for self-learnin
 - Use the MinMaxScaler to normalize the feature data X_train and X_test
 - Define the Neural Network with 4 layers, 3 dropout layers to predict binary classification
 - Split the original data into train and test dataset
-- plot out the validation loss versus the training loss
+- Plot out the validation loss versus the training loss and conclude our model prevented overfitting
+- Predict on the test set, print out the confusion matrix, and conclude our model has accuracy about 89%.
 
 [Linear Regression to predict Boston Housing](https://github.com/nan-hub/DS-Project/blob/master/Linear%20Regression%20to%20predict%20Boston%20Housing.ipynb)
 
