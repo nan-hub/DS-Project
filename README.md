@@ -3,6 +3,19 @@
 
 This repository contains some data science projects and is only for self-learning purpose.
 
+[Predict the loan repayment capacity using tensorflow]()
+> python, jupyter notebook
+
+>tensorflow, keras, pandas, numpy, matplotlib, seaborn, sklearn
+
+- Perform data preprocessing, remove or fill any missing data,  remove unnecessary or repetitive features and convert categorical string features to dummy variables
+
+- Split the original data into train and test dataset
+- Use the MinMaxScaler to normalize the feature data X_train and X_test
+- Define the Neural Network with 4 layers, 3 dropout layers to predict binary classification
+- Split the original data into train and test dataset
+- plot out the validation loss versus the training loss
+
 [Linear Regression to predict Boston Housing](https://github.com/nan-hub/DS-Project/blob/master/Linear%20Regression%20to%20predict%20Boston%20Housing.ipynb)
 
 > python, jupyter notebook
